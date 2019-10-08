@@ -11,3 +11,6 @@ Follow the below instructions for getting started with this repo.
 	> npm install
 	> npm start
 ```
+
+### Your application will run on
+```localhost:8081```
